@@ -12,13 +12,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="blockthemall.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blockthemall.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blockthemall.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="-1029">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
-                <element signature="e#6#789#0#PHP" expanded="true" />
                 <marker date="1501379169995" expanded="true" signature="2371:2453" ph="SELECT * FRO... ${$table_name}" />
                 <marker date="1501379169995" expanded="true" signature="2371:2471" ph="SELECT * FRO... ${$table_name}" />
               </folding>
@@ -46,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockThemAll.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BlockThemAll.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classes/BlockThemAll.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="96" column="165" lean-forward="false" selection-start-line="96" selection-start-column="165" selection-end-line="96" selection-end-column="165" />
+            <state relative-caret-position="1155">
+              <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
               <folding>
                 <element signature="e#7#77#0#PHP" expanded="false" />
                 <element signature="e#103#134#0#PHP" expanded="false" />
@@ -381,12 +380,12 @@
       <option name="presentableId" value="Default" />
       <updated>1501367610263</updated>
       <workItem from="1501367611541" duration="2395000" />
-      <workItem from="1501370779844" duration="8586000" />
+      <workItem from="1501370779844" duration="10416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10981000" />
+    <option name="totallyTimeSpent" value="12811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -430,7 +429,6 @@
         <state relative-caret-position="315">
           <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
-            <element signature="e#6#789#0#PHP" expanded="true" />
             <marker date="1501379169995" expanded="true" signature="2371:2453" ph="SELECT * FRO... ${$table_name}" />
             <marker date="1501379169995" expanded="true" signature="2371:2471" ph="SELECT * FRO... ${$table_name}" />
           </folding>
@@ -706,38 +704,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Utils.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockthemall.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="e#6#789#0#PHP" expanded="true" />
-            <marker date="1501379169995" expanded="true" signature="2371:2453" ph="SELECT * FRO... ${$table_name}" />
-            <marker date="1501379169995" expanded="true" signature="2371:2471" ph="SELECT * FRO... ${$table_name}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/auth_error.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes/BlockThemAll.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="96" column="165" lean-forward="false" selection-start-line="96" selection-start-column="165" selection-end-line="96" selection-end-column="165" />
+        <state relative-caret-position="1155">
+          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
           <folding>
             <element signature="e#7#77#0#PHP" expanded="false" />
             <element signature="e#103#134#0#PHP" expanded="false" />
@@ -760,6 +730,33 @@
             <marker date="1501379847394" expanded="true" signature="3147:3238" ph="INSERT INTO ${$table_name}... " />
             <marker date="1501379847394" expanded="true" signature="3147:3253" ph="INSERT INTO ${$table_name}... " />
             <marker date="1501379847394" expanded="true" signature="3147:3293" ph="INSERT INTO ${$table_name}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Utils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/auth_error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockthemall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1029">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <marker date="1501379169995" expanded="true" signature="2371:2453" ph="SELECT * FRO... ${$table_name}" />
+            <marker date="1501379169995" expanded="true" signature="2371:2471" ph="SELECT * FRO... ${$table_name}" />
           </folding>
         </state>
       </provider>
